@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I'm Yeshwanth, a Research Associate at CYENS Centre of Excellence and a PhD student at the Cyprus University of Technology.
 My work involves developing deep learning architectures for computer vision tasks with a focus on semantic understanding of 2D/3D urban scenes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshwanth95&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshwanth95&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
